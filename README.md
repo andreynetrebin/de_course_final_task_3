@@ -143,11 +143,12 @@ de_course_final_task_3/
 ## Скриншоты
 
 Вот некоторые скриншоты, демонстрирующие работу проекта:
-Граф из Airflow: 
 
+Граф из Airflow: 
+![airflow_graph](https://github.com/user-attachments/assets/d2eefe8f-e529-4922-b376-43f1c639025b)
 
 Дашборд из Grafana:
-
+![grafana_dashboard](https://github.com/user-attachments/assets/a286b748-617c-445c-b592-c44d21085a30)
 
 
 ## Лицензия
