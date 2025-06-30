@@ -1,0 +1,5 @@
+apache-airflow
+pyspark
+requests
+psycopg2
+clickhouse_driver
